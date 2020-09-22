@@ -15,6 +15,4 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
-![Betul's github stats](https://github-readme-stats.vercel.app/api?username=betulcalik&show_icons=true&theme=synthwave)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulcalik&hide=html&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
