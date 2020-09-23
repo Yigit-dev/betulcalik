@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Betul.
 
-## Software Engineering student
+## Software Engineering Student
 
 - 🔭 I’m currently working on **Python**
 - 🌱 I’m currently learning **Machine Learning**
@@ -15,4 +15,4 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulcalik&hide=html&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betulcalik&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
