@@ -3,7 +3,7 @@
 ## Software Engineering Student
 
 - 🔭 I’m currently working on **Python**
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 - 📝 I write articles/notebooks on [https://www.kaggle.com/betulcalikx](https://www.kaggle.com/betulcalikx)
 
 <p align="left">
